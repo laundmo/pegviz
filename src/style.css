@@ -38,11 +38,11 @@ body {
 }
 
 code {
-	color: #fefefe;
-	font-family: 'Source Code Pro', monospace;
-	white-space: pre;
-	display: inline-block;
-	vertical-align: top;
+    color: #fefefe;
+    font-family: 'Source Code Pro', monospace;
+    white-space: pre;
+    display: inline-block;
+    vertical-align: top;
 }
 
 code em, code strong, code span {
